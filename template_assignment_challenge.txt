@@ -1,0 +1,6 @@
+With this week's assignment consisting of adding functional URLs, I believe that there are a ton of ways that these improvements can be brought to the admin page.
+
+One thing I imagine would be helpful is a way to navigate to certain pages in the site from the admin page. I believe that adding a link in the left hand navbar which will take you to the corresponding
+page in the site would be a helpful feature. This can go further so that elements added to the database give you the option to go the site.
+
+For example, if I create a student, there could be a button that says "Save and go to page." This way, you can create a student and then immediately view it live on the page.

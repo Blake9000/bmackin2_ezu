@@ -1,0 +1,7 @@
+In this week we learned how to implement creation, deletion, and update forms on our site.
+
+I feel that the Admin app is a great replacement for the method we had implemented this week. Each implementation we made took at least 6 steps and created several files and lots of code.
+If we instead replace this functionality with the admin app, this could save a lot of time. For example, we could keep the UI, but have a link that takes people with creation or deletion permissions
+to the admin app to perform those functions. This would still allow people without permissions to view the nice UI of the site while still allowing admins great powers without a lot of extra code.
+
+This could be a large time-saver in complex projects. Instead of wasting time re-creating functionalities that already exist in the Admin app, we could simply use them to their maximum potential.
