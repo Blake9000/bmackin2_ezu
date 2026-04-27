@@ -12,7 +12,7 @@ from courseinfo.utils import PageLinksMixin
 class InstructorList(LoginRequiredMixin, PermissionRequiredMixin, PageLinksMixin, ListView):
     paginate_by = 25
     model = Instructor
-    premission_required = 'courseinfo.view_instructor'
+    permission_required = 'courseinfo.view_instructor'
 
 
 class InstructorDetail(LoginRequiredMixin, PermissionRequiredMixin, DetailView):
